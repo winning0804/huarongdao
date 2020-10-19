@@ -1,1 +1,1 @@
-# huarongdao
+transform.cs主要实现点击按钮跳转到指定场景，exit.cs实现游戏退出。BottonPause.cs实现点击菜单暂停时间和出现菜单页面，在点击菜单上的继续游戏后回到游戏页面继续计时，点击重新开始会重新开始游戏并重新计时，GetTime.cs显示游戏时间。
